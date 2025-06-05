@@ -1,6 +1,10 @@
 import { auth } from "@/auth";
 import Header from "@/components/Header";
+import { db } from "@/database/drizzle";
+import { users } from "@/database/schema";
+import { eq } from "drizzle-orm";
 import { redirect } from "next/navigation";
+import { after } from "next/server";
 import React from "react";
 import { ReactNode } from "react";
 

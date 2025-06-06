@@ -15,6 +15,13 @@
       "when": 1749116425248,
       "tag": "0001_eminent_omega_sentinel",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1749200400473,
+      "tag": "0002_overjoyed_onslaught",
+      "breakpoints": true
     }
   ]
 }
